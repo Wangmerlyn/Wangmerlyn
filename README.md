@@ -19,6 +19,16 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.2%20million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 28/09/2025 02:11:37 UTC
+```text
+🌞 Morning                251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+🌆 Daytime                2834 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
+🌃 Evening                2824 commits        █████████░░░░░░░░░░░░░░░░   36.44 % 
+🌙 Night                  1840 commits        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+```
+
+
+
+ Last Updated on 28/09/2025 08:38:27 UTC
 <!--END_SECTION:waka-->
