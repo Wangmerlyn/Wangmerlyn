@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%204%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -30,5 +28,5 @@ Here are some ideas to get you started:
 
 
 
- Last Updated on 02/11/2025 08:41:53 UTC
+ Last Updated on 02/11/2025 16:40:36 UTC
 <!--END_SECTION:waka-->
