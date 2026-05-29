@@ -15,8 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72.74%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%2017%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72.26%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                522 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+🌆 Daytime                5658 commits        ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌃 Evening                6936 commits        ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  4222 commits        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+```
 
 
- Last Updated on 28/05/2026 20:58:48 UTC
+
+ Last Updated on 29/05/2026 06:25:42 UTC
 <!--END_SECTION:waka-->
