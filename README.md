@@ -15,15 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.16%20billion%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs%2045%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2030%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.71%20billion%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3437 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-🌆 Daytime                16160 commits       █████████░░░░░░░░░░░░░░░░   37.54 % 
-🌃 Evening                17355 commits       ██████████░░░░░░░░░░░░░░░   40.31 % 
-🌙 Night                  6099 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌞 Morning                1992 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+🌆 Daytime                11461 commits       █████████░░░░░░░░░░░░░░░░   36.03 % 
+🌃 Evening                13710 commits       ███████████░░░░░░░░░░░░░░   43.10 % 
+🌙 Night                  4646 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 ```
 
 
@@ -50,5 +54,5 @@ GPT                      12,196 lines        ███████████�
 ```
 
 
- Last Updated on 07/08/2026 06:35:17 UTC
+ Last Updated on 07/08/2026 14:40:59 UTC
 <!--END_SECTION:waka-->
